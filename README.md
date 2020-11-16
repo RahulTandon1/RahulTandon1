@@ -2,6 +2,7 @@
 (that was  meant to be slightly funny and bring a smile to your face)
 
 I write Python & Javascript (Frontend + Node.js)
+
 Technologies: Express.js, Gatsby, Django, Flask, MongoDB, MySQL, Sass/SCSS, Bootstrap
 
 <!--
