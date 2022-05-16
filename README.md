@@ -3,7 +3,7 @@
 
 I write Python & Javascript (Frontend + Node.js)
 
-Technologies: Express.js, Gatsby, Django, Flask, MongoDB, MySQL, Sass/SCSS, Bootstrap
+Technologies: Express.js, Next, Gatsby, Django, Flask, MongoDB, MySQL, Sass/SCSS, Bootstrap
 
 <!--
 **RahulTandon1/RahulTandon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
