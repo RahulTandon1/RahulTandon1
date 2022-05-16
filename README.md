@@ -1,5 +1,5 @@
-### Aur ji pranam :p 👋
-(that was  meant to be slightly funny and bring a smile to your face)
+### Ayo Whaddup? 👋
+(that was  meant to bring a smile to your face)
 
 I write Python & Javascript (Frontend + Node.js)
 
