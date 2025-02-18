@@ -1,7 +1,11 @@
 ### Ayo Whaddup? 👋
 (that was  meant to bring a smile to your face)
 
-I write Python & Javascript (Frontend + Node.js)
+I write Python & Javascript.
+
+I'm a backend-focussed fullstack dev.
+
+Recently, I've been dabbling into _systems_ more generally & pondering about a day in the life of a web request: from browser to container/VM.
 
 Technologies: Express.js, Next, Gatsby, Django, Flask, MongoDB, MySQL, Sass/SCSS, Bootstrap
 
